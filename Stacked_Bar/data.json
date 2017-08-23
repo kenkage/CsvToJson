@@ -1,0 +1,247 @@
+﻿[
+  {
+    "CountryCode": "EAS",
+    "Life_expectancy_at_birth_male": 3489.722,
+    "Life_expectancy_at_birth_female": 3691.076
+  },
+  {
+    "CountryCode": "SAS",
+    "Life_expectancy_at_birth_male": 3017.524,
+    "Life_expectancy_at_birth_female": 3052.786
+  },
+  {
+    "CountryCode": "AFG",
+    "Life_expectancy_at_birth_male": 2468.238,
+    "Life_expectancy_at_birth_female": 2569.334
+  },
+  {
+    "CountryCode": "ARM",
+    "Life_expectancy_at_birth_male": 3624.344,
+    "Life_expectancy_at_birth_female": 3969.571
+  },
+  {
+    "CountryCode": "AZE",
+    "Life_expectancy_at_birth_male": 3357.906,
+    "Life_expectancy_at_birth_female": 3743.194
+  },
+  {
+    "CountryCode": "BHR",
+    "Life_expectancy_at_birth_male": 3671.181,
+    "Life_expectancy_at_birth_female": 3834.392
+  },
+  {
+    "CountryCode": "BGD",
+    "Life_expectancy_at_birth_male": 3079.152,
+    "Life_expectancy_at_birth_female": 3121.24
+  },
+  {
+    "CountryCode": "BTN",
+    "Life_expectancy_at_birth_male": 2705.818,
+    "Life_expectancy_at_birth_female": 2709.106
+  },
+  {
+    "CountryCode": "BRN",
+    "Life_expectancy_at_birth_male": 3782.112,
+    "Life_expectancy_at_birth_female": 3948.51
+  },
+  {
+    "CountryCode": "KHM",
+    "Life_expectancy_at_birth_male": 2481.406,
+    "Life_expectancy_at_birth_female": 2729.223
+  },
+  {
+    "CountryCode": "CHN",
+    "Life_expectancy_at_birth_male": 3512.628,
+    "Life_expectancy_at_birth_female": 3663.982
+  },
+  {
+    "CountryCode": "GEO",
+    "Life_expectancy_at_birth_male": 3561.132,
+    "Life_expectancy_at_birth_female": 3968.308
+  },
+  {
+    "CountryCode": "HKG",
+    "Life_expectancy_at_birth_male": 3953.855,
+    "Life_expectancy_at_birth_female": 4293.067
+  },
+  {
+    "CountryCode": "IND",
+    "Life_expectancy_at_birth_male": 3005.054,
+    "Life_expectancy_at_birth_female": 3030.456
+  },
+  {
+    "CountryCode": "IDN",
+    "Life_expectancy_at_birth_male": 3210.121,
+    "Life_expectancy_at_birth_female": 3369.975
+  },
+  {
+    "CountryCode": "IRN",
+    "Life_expectancy_at_birth_male": 3187.137,
+    "Life_expectancy_at_birth_female": 3365.667
+  },
+  {
+    "CountryCode": "IRQ",
+    "Life_expectancy_at_birth_male": 3320.359,
+    "Life_expectancy_at_birth_female": 3556.231
+  },
+  {
+    "CountryCode": "JPN",
+    "Life_expectancy_at_birth_male": 4019.02,
+    "Life_expectancy_at_birth_female": 4328.561
+  },
+  {
+    "CountryCode": "JOR",
+    "Life_expectancy_at_birth_male": 3534.698,
+    "Life_expectancy_at_birth_female": 3671.261
+  },
+  {
+    "CountryCode": "KAZ",
+    "Life_expectancy_at_birth_male": 3244.742,
+    "Life_expectancy_at_birth_female": 3801.016
+  },
+  {
+    "CountryCode": "PRK",
+    "Life_expectancy_at_birth_male": 3282.232,
+    "Life_expectancy_at_birth_female": 3645.578
+  },
+  {
+    "CountryCode": "KOR",
+    "Life_expectancy_at_birth_male": 3532.411,
+    "Life_expectancy_at_birth_female": 3923.165
+  },
+  {
+    "CountryCode": "KWT",
+    "Life_expectancy_at_birth_male": 3723.357,
+    "Life_expectancy_at_birth_female": 3845.37
+  },
+  {
+    "CountryCode": "KGZ",
+    "Life_expectancy_at_birth_male": 3258.901,
+    "Life_expectancy_at_birth_female": 3704.8
+  },
+  {
+    "CountryCode": "LAO",
+    "Life_expectancy_at_birth_male": 2790.22,
+    "Life_expectancy_at_birth_female": 2939.133
+  },
+  {
+    "CountryCode": "LBN",
+    "Life_expectancy_at_birth_male": 3716.992,
+    "Life_expectancy_at_birth_female": 3907.901
+  },
+  {
+    "CountryCode": "MAC",
+    "Life_expectancy_at_birth_male": 3865.341,
+    "Life_expectancy_at_birth_female": 4101.023
+  },
+  {
+    "CountryCode": "MYS",
+    "Life_expectancy_at_birth_male": 3636.463,
+    "Life_expectancy_at_birth_female": 3815.153
+  },
+  {
+    "CountryCode": "MDV",
+    "Life_expectancy_at_birth_male": 3143.178,
+    "Life_expectancy_at_birth_female": 3145.678
+  },
+  {
+    "CountryCode": "MNG",
+    "Life_expectancy_at_birth_male": 3057.616,
+    "Life_expectancy_at_birth_female": 3352.875
+  },
+  {
+    "CountryCode": "MMR",
+    "Life_expectancy_at_birth_male": 2934.181,
+    "Life_expectancy_at_birth_female": 3185.779
+  },
+  {
+    "CountryCode": "NPL",
+    "Life_expectancy_at_birth_male": 2773.526,
+    "Life_expectancy_at_birth_female": 2844.439
+  },
+  {
+    "CountryCode": "OMN",
+    "Life_expectancy_at_birth_male": 3294.632,
+    "Life_expectancy_at_birth_female": 3476.682
+  },
+  {
+    "CountryCode": "PAK",
+    "Life_expectancy_at_birth_male": 3109.844,
+    "Life_expectancy_at_birth_female": 3167.322
+  },
+  {
+    "CountryCode": "PHL",
+    "Life_expectancy_at_birth_male": 3315.802,
+    "Life_expectancy_at_birth_female": 3582.605
+  },
+  {
+    "CountryCode": "QAT",
+    "Life_expectancy_at_birth_male": 3866.342,
+    "Life_expectancy_at_birth_female": 4002.646
+  },
+  {
+    "CountryCode": "SAU",
+    "Life_expectancy_at_birth_male": 3364.801,
+    "Life_expectancy_at_birth_female": 3552.938
+  },
+  {
+    "CountryCode": "SGP",
+    "Life_expectancy_at_birth_male": 3853.037,
+    "Life_expectancy_at_birth_female": 4139.221
+  },
+  {
+    "CountryCode": "LKA",
+    "Life_expectancy_at_birth_male": 3544.122,
+    "Life_expectancy_at_birth_female": 3847.39
+  },
+  {
+    "CountryCode": "SYR",
+    "Life_expectancy_at_birth_male": 3556.667,
+    "Life_expectancy_at_birth_female": 3682.437
+  },
+  {
+    "CountryCode": "TJK",
+    "Life_expectancy_at_birth_male": 3225.839,
+    "Life_expectancy_at_birth_female": 3546.16
+  },
+  {
+    "CountryCode": "THA",
+    "Life_expectancy_at_birth_male": 3417.631,
+    "Life_expectancy_at_birth_female": 3747.539
+  },
+  {
+    "CountryCode": "TUR",
+    "Life_expectancy_at_birth_male": 3161.955,
+    "Life_expectancy_at_birth_female": 3522.747
+  },
+  {
+    "CountryCode": "TKM",
+    "Life_expectancy_at_birth_male": 3115.044,
+    "Life_expectancy_at_birth_female": 3521.062
+  },
+  {
+    "CountryCode": "ARE",
+    "Life_expectancy_at_birth_male": 3626.234,
+    "Life_expectancy_at_birth_female": 3793.398
+  },
+  {
+    "CountryCode": "UZB",
+    "Life_expectancy_at_birth_male": 3343.078,
+    "Life_expectancy_at_birth_female": 3706.689
+  },
+  {
+    "CountryCode": "VNM",
+    "Life_expectancy_at_birth_male": 3441.446,
+    "Life_expectancy_at_birth_female": 3937.307
+  },
+  {
+    "CountryCode": "YEM",
+    "Life_expectancy_at_birth_male": 2746.816,
+    "Life_expectancy_at_birth_female": 2897.167
+  },
+  {
+    "CountryCode": "ISR",
+    "Life_expectancy_at_birth_male": 3716.93,
+    "Life_expectancy_at_birth_female": 3892.64
+  }
+]
