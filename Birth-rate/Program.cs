@@ -9,7 +9,7 @@ namespace new_file
         static void Main(string[] args)
         {
             StreamReader sr = new StreamReader(new FileStream(@"C:\Users\Training\Downloads\CSV\Indicators.csv", FileMode.Open, FileAccess.Read));
-            StreamWriter write = new StreamWriter(new FileStream(@"C:\Users\Training\Downloads\CSV\Multi-line.json", FileMode.OpenOrCreate, FileAccess.Write));
+            StreamWriter write = new StreamWriter(new FileStream(@"C:\Users\Training\Downloads\CSV\Birth-rate.json", FileMode.OpenOrCreate, FileAccess.Write));
             // string[] country = {"IND"};          
             string[] headers = sr.ReadLine().Split(',');
             string line;

@@ -16,7 +16,7 @@ namespace temp3
             FileStream f = new FileStream(@"C:\Users\Training\Downloads\CSV\Indicators.csv", FileMode.Open, FileAccess.Read);
             StreamReader read = new StreamReader(f);
 
-            FileStream fs = new FileStream(@"C:\Users\Training\Downloads\CSV\final1.json", FileMode.OpenOrCreate, FileAccess.Write);
+            FileStream fs = new FileStream(@"C:\Users\Training\Downloads\CSV\life-xpctncy.json", FileMode.OpenOrCreate, FileAccess.Write);
             StreamWriter write = new StreamWriter(fs);
 
 

@@ -21,25 +21,15 @@ namespace Ass
     class Program
     {
         static void Main(string[] args)
-        {
-            //   Regex r = new Regex(@"/,(?![^"]*"(?:(?:[^"]*"){2})*[^"]*$)/ "   ,   RegexOptions.Compiled | RegexOptions.IgnoreCase);
-
-
-
-            string path = @"C:\Users\Training\Downloads\CSV\Indicators.csv";
-            string path2 = @"C:\Users\Training\Downloads\CSV\barchart.json";
+        {                  
             string[] country = { "AFG", "ARM", "AZE", "BHR", "BGD", "BTN", "BRN", "KHM", "CHN", "CXR", "CCK", "IOT","GEO", "HKG", "IND", "IDN", "IRN", "IRQ","ISR", "JPN", "JOR", "KAZ", "KWT",
                 "KGZ", "LAO", "LBN", "MAC", "MYS", "MDV", "MNG", "MMR", "NPL","PRK", "OMN", "PAK", "PHL", "QAT", "SAU", "SGP", "KOR", "LKA", "SYR", "TWN", "TJK", "THA", "TUR", "TKM", "ARE", "UZB", "VNM", "YEM"  };
             Console.Write(country.Length);
             List<CountryData> list = new List<CountryData>();
-            List<CountryData> firstlist = new List<CountryData>();
-            FileStream fileStream = new FileStream(path, FileMode.Open, FileAccess.Read);
-            FileStream fileStream2 = new FileStream(path2, FileMode.OpenOrCreate, FileAccess.Write);
-            StreamReader reader = new StreamReader(fileStream);
-            StreamWriter writer = new StreamWriter(fileStream2);
+            List<CountryData> firstlist = new List<CountryData>();           
+            StreamReader reader = new StreamReader(new FileStream(@"C:\Users\Training\Downloads\CSV\Indicators.csv", FileMode.Open, FileAccess.Read));
+            StreamWriter writer = new StreamWriter(new FileStream(@"C:\Users\Training\Downloads\CSV\Top5.json", FileMode.OpenOrCreate, FileAccess.Write));
             var header = reader.ReadLine().Split(',');
-
-
             while (!reader.EndOfStream)
             {
                 string[] data = reader.ReadLine().Split(',');
