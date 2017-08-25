@@ -1,6 +1,0 @@
-C:\Users\Training\source\repos\Assignment\Using_NewtonSoft\bin\Debug\netcoreapp1.1\Using_NewtonSoft.deps.json
-C:\Users\Training\source\repos\Assignment\Using_NewtonSoft\bin\Debug\netcoreapp1.1\Using_NewtonSoft.runtimeconfig.json
-C:\Users\Training\source\repos\Assignment\Using_NewtonSoft\bin\Debug\netcoreapp1.1\Using_NewtonSoft.runtimeconfig.dev.json
-C:\Users\Training\source\repos\Assignment\Using_NewtonSoft\bin\Debug\netcoreapp1.1\Using_NewtonSoft.dll
-C:\Users\Training\source\repos\Assignment\Using_NewtonSoft\obj\Debug\netcoreapp1.1\Using_NewtonSoft.csproj.CoreCompileInputs.cache
-C:\Users\Training\source\repos\Assignment\Using_NewtonSoft\obj\Debug\netcoreapp1.1\Using_NewtonSoft.AssemblyInfo.cs

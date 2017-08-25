@@ -1,7 +1,0 @@
-C:\Users\Training\source\repos\Assignment\Birth-rate\bin\Debug\netcoreapp1.1\Birth-rate.deps.json
-C:\Users\Training\source\repos\Assignment\Birth-rate\bin\Debug\netcoreapp1.1\Birth-rate.runtimeconfig.json
-C:\Users\Training\source\repos\Assignment\Birth-rate\bin\Debug\netcoreapp1.1\Birth-rate.runtimeconfig.dev.json
-C:\Users\Training\source\repos\Assignment\Birth-rate\bin\Debug\netcoreapp1.1\Birth-rate.dll
-C:\Users\Training\source\repos\Assignment\Birth-rate\obj\Debug\netcoreapp1.1\Birth-rate.csprojResolveAssemblyReference.cache
-C:\Users\Training\source\repos\Assignment\Birth-rate\obj\Debug\netcoreapp1.1\Birth-rate.csproj.CoreCompileInputs.cache
-C:\Users\Training\source\repos\Assignment\Birth-rate\obj\Debug\netcoreapp1.1\Birth-rate.AssemblyInfo.cs

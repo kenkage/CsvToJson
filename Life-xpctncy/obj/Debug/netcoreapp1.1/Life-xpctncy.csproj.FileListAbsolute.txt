@@ -1,6 +1,0 @@
-C:\Users\Training\source\repos\Assignment\Life-xpctncy\bin\Debug\netcoreapp1.1\Life-xpctncy.deps.json
-C:\Users\Training\source\repos\Assignment\Life-xpctncy\bin\Debug\netcoreapp1.1\Life-xpctncy.runtimeconfig.json
-C:\Users\Training\source\repos\Assignment\Life-xpctncy\bin\Debug\netcoreapp1.1\Life-xpctncy.runtimeconfig.dev.json
-C:\Users\Training\source\repos\Assignment\Life-xpctncy\bin\Debug\netcoreapp1.1\Life-xpctncy.dll
-C:\Users\Training\source\repos\Assignment\Life-xpctncy\obj\Debug\netcoreapp1.1\Life-xpctncy.csproj.CoreCompileInputs.cache
-C:\Users\Training\source\repos\Assignment\Life-xpctncy\obj\Debug\netcoreapp1.1\Life-xpctncy.AssemblyInfo.cs
